@@ -1,4 +1,4 @@
-# Savory Delights - Restaurant Website
+# Savory Delights - Restaurant 
 
 A modern, responsive restaurant website built with HTML5, CSS3, and JavaScript.
 
@@ -90,4 +90,4 @@ php -S localhost:8000
 
 ## License
 
-© 2024 Savory Delights. All rights reserved.
+© 2025 Savory Delights. All rights reserved.
