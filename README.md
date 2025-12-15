@@ -90,4 +90,4 @@ php -S localhost:8000
 
 ## License
 
-© 2024 Savory Delights. All rights reserved.
+© 2025 Savory Delights. All rights reserved.
