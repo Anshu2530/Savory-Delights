@@ -1,4 +1,4 @@
-# Savory Delights - Restaurant Website
+# Savory Delights - Restaurant 
 
 A modern, responsive restaurant website built with HTML5, CSS3, and JavaScript.
 
